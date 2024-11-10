@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Alexander, I'm 12 years old. I am a beginner C++ senior developer. My leisure time is occupied by Backend development and my girlfriend. There are not many repositories on the page, because all projects are mostly commercial and are in use. And another important note: `I hate python and believe that this language was developed by the Nazis`.
+My name is Alexander, I'm 12 years old. I am a beginner C++ senior developer. My leisure time is occupied by Backend development ~~and my girlfriend~~. There are not many repositories on the page, because all projects are mostly commercial and are in use. And another important note: `I hate python and believe that this language was developed by the Nazis`.
 
 ###### My working languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
